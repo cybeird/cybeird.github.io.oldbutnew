@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>forget-to-get-some-books</title>
+      <link href="/Post/forget-to-get-some-books/"/>
+      <url>/Post/forget-to-get-some-books/</url>
+      
+        <content type="html"><![CDATA[<h2 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h2><p>今天第一节课软工理论基本是睡过去的，算法实验课基本也就写了个01背包然后全程划水，只感觉好累好累的，看来还是尽量不要熬夜，欸。</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> Post </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>观妇联4有感</title>
+      <link href="/Post/MoreThanCurse/revengers-four/"/>
+      <url>/Post/MoreThanCurse/revengers-four/</url>
+      
+        <content type="html"><![CDATA[<h2 id="电影本身"><a href="#电影本身" class="headerlink" title="电影本身"></a>电影本身</h2><h3 id="时间机器与永生"><a href="#时间机器与永生" class="headerlink" title="时间机器与永生"></a>时间机器与永生</h3><p>整体节奏蛮酷的，而且还吐槽了所有其他的有关时间穿越的电影，特别是hulk那句“你回到过去你只会你的现在就变成了你的过去，而你的过去就变成了你的未来，你不可能在去改变现在已经发生的事情”。（不过他们应该掌握了永生的技巧了吧，蚁人无论是年少还是年老都保有着同样的记忆）</p><h3 id="钢铁侠和响指"><a href="#钢铁侠和响指" class="headerlink" title="钢铁侠和响指"></a>钢铁侠和响指</h3><p>首先，在体力（或者说是力量上），钢铁侠肯定不是打响指的最优选项（当然也有可能是大家宁愿全灭也没人想去打那个响指或者奇异博士和大家说好了给托尼创造打响（bai）指（gei）的机会），比如说惊奇队长，全程基本都是在划水，抱着手套被灭霸抢了还被一拳击飞了（也有可能是灭霸手捏力量宝石然后带上完全体手套之后双层负面buff所以变弱了，从而创造机会让铁人打了）</p><p>这可能是编剧故意削弱的缘故，惊奇队长这个角色要是抢了风头打了响指还屁事没有就有点机器降神的感觉了（毕竟22部电影里她很靠后很靠后才出现），如果响指把人打没了就显得漫威整了一个白给工具人，哈哈哈。</p><h3 id="神圣时间线"><a href="#神圣时间线" class="headerlink" title="神圣时间线"></a>神圣时间线</h3><p>在what if里面，奇异博士拼命想去救他老婆结果把世界毁了，这里引出了一个概念————编剧的死亡笔记本（bushi</p><p>说实话，这个概念挺无解的，甚至还形成了一个完美的逻辑闭环。没错，我想让谁死谁就得死，你说如何如何能救？你错啦！让奇异博士提前和惊队说一下？我们早想到了！这样只会带来时间线的崩坏导致game over，妇联想赢钢铁侠biss，编剧已经钦定了，耶稣也救不了他！</p><p>这个概念太过完备从而完美打击了HISHE(How it should have ended)，建议直接把神圣节点编满，这样观众就无法吐槽了（都有相对于都没有，无槽可吐等于全是槽点，老相对论了）</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> Post </category>
+          
+          <category> MoreThanCurse </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Marvel </tag>
+            
+            <tag> movie </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>算法第四课-DP靠顿悟</title>
+      <link href="/AfterRead/Algorithm-Analysis/algorithm-analysis-learning-4/"/>
+      <url>/AfterRead/Algorithm-Analysis/algorithm-analysis-learning-4/</url>
+      
+        <content type="html"><![CDATA[<h2 id="引入"><a href="#引入" class="headerlink" title="引入"></a>引入</h2><p>我感觉我没有必要专门再去写一个引入，因为无论是通俗易懂的金矿模型还是经典的01背包问题（抑或是今天老师讲的超市买东西）都讲的很不错，看这些肯定比我这个半吊子强。</p><h2 id="算法核心问题及步骤解析"><a href="#算法核心问题及步骤解析" class="headerlink" title="算法核心问题及步骤解析"></a>算法核心问题及步骤解析</h2><h3 id="核心"><a href="#核心" class="headerlink" title="核心"></a>核心</h3><p>往往当我们遇见满足下列条件的问题时，就可以更好地采用动态规划来解决。</p><ul><li><p>最优子问题</p></li><li><p>子问题重叠</p></li><li><p>边界</p></li><li><p>子问题独立</p></li></ul><p>这四个问题基本就是整个动态规划能够运作的核心，当然，我们往往还会进行额外的备忘录和时间分析</p><h2 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h2><p>动态规划本质上依旧使用了分治的思想，同时致力于解决冗余这一方面。</p><ol><li><p>动态转移方程</p></li><li><p>递归</p></li><li><p>自下而上</p></li><li><p>构造最优解</p></li></ol><h3 id="状态转移方程"><a href="#状态转移方程" class="headerlink" title="状态转移方程"></a>状态转移方程</h3><p>写出状态转移方程可以说是整个动态规划算法运行的核心，我们以01背包为例子</p><blockquote><p>这里有一个容积为V的背包，还有一堆占用体积为vi，质量为mi的货物，想出一种装法，使得其最重从而沉死翔孙。</p></blockquote><p>我们设定当前开始的货物编号为begin，最后为end，那么对于每一种货物我们无非就只有装或者不装两种选择（这样递归下去就变成了一棵完全二叉树）</p><p>如下所示</p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">chensixiangsun</span>(begin, end, V) = max&#123; <span class="built_in">chensixiangsun</span>(begin, end<span class="number">-1</span>, V), <span class="built_in">chensixiangsun</span>(begin, end<span class="number">-1</span>, V-vi) + mi&#125;;</span><br></pre></td></tr></table></figure><p>很完美（01背包不需要做备忘录）</p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;algorithm&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;cmath&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> N 20</span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="comment">//01背包实在是太经典啦，怎么都得写个一写</span></span><br><span class="line"><span class="keyword">int</span> V, m[N], v[N], n;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">dfs</span><span class="params">(<span class="keyword">int</span> V, <span class="keyword">int</span> end)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(end &gt; <span class="number">0</span>)</span><br><span class="line">    <span class="keyword">return</span> <span class="built_in">max</span>( <span class="built_in">dfs</span>(V, end<span class="number">-1</span>), <span class="built_in">dfs</span>(V-v[end], end<span class="number">-1</span>) + m[end]);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    cin &gt;&gt; V &gt;&gt; n;</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">1</span>; i &lt;= n; i++)</span><br><span class="line">        cin &gt;&gt; v[i] &gt;&gt; m[i];</span><br><span class="line">    cout &lt;&lt; <span class="built_in">dfs</span>(V, n);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>时间复杂度是O(2^n^)吗，这点我们待会再谈</p><p>动态规划主要分为：记忆化搜索（递归+记忆函数），递推</p><p>递归由于对于重复的子问题会进行大量的重复计算，所以效率会低于递推</p><h2 id="递推"><a href="#递推" class="headerlink" title="递推"></a>递推</h2><p>时间复杂度是O(n^2^)</p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">int</span> i, j;</span><br><span class="line"><span class="keyword">for</span>(j = <span class="number">1</span>; j &lt;= n; j++) d[n][j] = a[n][j];</span><br><span class="line"><span class="keyword">for</span>(i = n<span class="number">-1</span>; i &gt;= <span class="number">1</span>; i--)</span><br><span class="line">    <span class="keyword">for</span>(j = <span class="number">1</span>; j &lt;= i; j++)</span><br><span class="line">        d[i][j] = a[i][j] + <span class="built_in">max</span>(d[i+<span class="number">1</span>][j], d[i+<span class="number">1</span>][j+<span class="number">1</span>]);</span><br></pre></td></tr></table></figure><h2 id="记忆化搜索"><a href="#记忆化搜索" class="headerlink" title="记忆化搜索"></a>记忆化搜索</h2><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">solve</span><span class="params">(<span class="keyword">int</span> i, <span class="keyword">int</span> j)</span> </span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(d[i][j] &gt;= <span class="number">0</span>) <span class="keyword">return</span> d[i][j];</span><br><span class="line">    <span class="keyword">return</span> d[i][j] = a[i][j] + (i == n ? <span class="number">0</span> : <span class="built_in">max</span>(<span class="built_in">solve</span>(i+<span class="number">1</span>,j), <span class="built_in">solve</span>(i+<span class="number">1</span>, j+<span class="number">1</span>)));</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>时间复杂度从O(2^n^)升格到O(n^2^)</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> AfterRead </category>
+          
+          <category> Algorithm Analysis </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> c艹 </tag>
+            
+            <tag> algorithm </tag>
+            
+            <tag> DP </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>这个人很懒，什么也没有写</title>
+      <link href="/Post/zhen-zuo-lao-le-bei/"/>
+      <url>/Post/zhen-zuo-lao-le-bei/</url>
+      
+        <content type="html"><![CDATA[<h2 id="考研"><a href="#考研" class="headerlink" title="考研"></a>考研</h2><p>自从我决定不考研之后，焦虑症缓解了许多了呢，好开心</p><h2 id="FF14"><a href="#FF14" class="headerlink" title="FF14"></a>FF14</h2><p>宏的研究与应用已经趋于完备了</p><p>金碟买的套装他喵的买错了一件，我吐了，太难了</p><p>主线赶紧推啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊</p><h2 id="简历"><a href="#简历" class="headerlink" title="简历"></a>简历</h2><p>除了马上要考的这个<code>CCF</code>能力资格认知，我暂时实在是想不到什么能够写进去的东西了。</p><p>不过现在先随便找个能做的事情先做着，我觉得就蛮好的。</p><h2 id="更新"><a href="#更新" class="headerlink" title="更新"></a>更新</h2><p>他喵的至少一日三更，ctmd，坚持到双十一直接买爆好吧</p><ul><li>总结和日记</li><li>算法技术性文章（解题报告）</li><li>任意技术性文章</li></ul><h2 id="吐槽"><a href="#吐槽" class="headerlink" title="吐槽"></a>吐槽</h2><p>图书馆坐我对面这个女生有毛病，一直玩自己的头发，生怕开了叉一样，非常离谱</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> Post </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>考还是不考，这是个问题</title>
+      <link href="/Post/kaoyan-or-not/"/>
+      <url>/Post/kaoyan-or-not/</url>
+      
+        <content type="html"><![CDATA[<h2 id="FF14"><a href="#FF14" class="headerlink" title="FF14"></a>FF14</h2><p>短期目标很简单，通过死宫赶紧搞到50级，这样就能换上一套与进度相仿的装备做主线了。而且这时循环基本也齐了，直接照抄即可</p><h2 id="动规"><a href="#动规" class="headerlink" title="动规"></a>动规</h2><p>希望明天一天能把这个玩意搞完                   </p><h2 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h2><p>无</p><p>上午不知道干嘛去了，与其浪费时间在哔哩哔哩上还不如肝肝FF14。中午开了一罐红牛，现在看来简直是浪费时间浪费生命。</p><h2 id="焦虑"><a href="#焦虑" class="headerlink" title="焦虑"></a>焦虑</h2><p>我觉得今天老师说的挺对的，这种东西都是潜移默化的（顺便提一句：我们专业的人才培养方案设计的真是太牛啦！）</p><p>不知道是什么的东西，先摆在这里（好像是计算时间复杂度的东西）</p><p>if f(n) ∈ Θ(n^d^) d&gt;=0</p><p>​        { Θ(n^d^) a&lt;b^d^</p><p>T(n) ∈ { Θ(n^d^logn) a=b^d^</p><p>​        { Θ(n^log<del>b</del>a^) a&gt;b^d^</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> Post </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>从next离开，但是感觉前途渺茫</title>
+      <link href="/Post/next-step-to-another/"/>
+      <url>/Post/next-step-to-another/</url>
+      
+        <content type="html"><![CDATA[<h2 id="算法思想草记"><a href="#算法思想草记" class="headerlink" title="算法思想草记"></a>算法思想草记</h2><p>对于局部有序的数列，可以考虑选择归并排序来进行进一步的处理</p><h2 id="下一篇文章大纲"><a href="#下一篇文章大纲" class="headerlink" title="下一篇文章大纲"></a>下一篇文章大纲</h2><h3 id="主题转战"><a href="#主题转战" class="headerlink" title="主题转战"></a>主题转战</h3><p>hexo 的主题里 next 可以说是我从一入坑便用到现在了，即便是遇见了各种各样的问题我也并未放弃（当然确实也耗费了很多的时间去解决，虽然最后的解决方法都是重装），而今天我决定跨出历史性的一步：换个主题</p><h4 id="Volantis-初探"><a href="#Volantis-初探" class="headerlink" title="Volantis 初探"></a>Volantis 初探</h4><h4 id="博客结构梳理"><a href="#博客结构梳理" class="headerlink" title="博客结构梳理"></a>博客结构梳理</h4><p>趁着博文还不算太多，决定一下整个博客的使用架构<br>-AfterRead<br>–SWE<br>–AA<br>-Post -各种牢骚<br>那么问题来了，是否要用英文来写博客呢</p><h4 id="如何插入图片以及数据流图（这个倒是真的蛮方便的）"><a href="#如何插入图片以及数据流图（这个倒是真的蛮方便的）" class="headerlink" title="如何插入图片以及数据流图（这个倒是真的蛮方便的）"></a>如何插入图片以及数据流图（这个倒是真的蛮方便的）</h4><h3 id="动归初探"><a href="#动归初探" class="headerlink" title="动归初探"></a>动归初探</h3><h3 id="如何不让自己的内心不外界干扰"><a href="#如何不让自己的内心不外界干扰" class="headerlink" title="如何不让自己的内心不外界干扰"></a>如何不让自己的内心不外界干扰</h3><p> 多记录少空想，本子记录随心想到的内容并及时整理成大纲，日后再将其转化成博文</p><h2 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h2><p>CCF考试报名遇见了很大的挫折，好™烦啊</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> Post </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> next </tag>
+            
+            <tag> blog </tag>
+            
+            <tag> hexo </tag>
+            
+            <tag> Self-Contribute </tag>
+            
+            <tag> Volantis </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>看来只有我处于疯狂颓废的状态</title>
+      <link href="/Post/everoneslearning-expert-me/"/>
+      <url>/Post/everoneslearning-expert-me/</url>
+      
+        <content type="html"><![CDATA[<h2 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h2><p>图书馆人这么多我是没想到的，基本可以说是满员了，回想上个学期的图书馆人员情况，真是有趣啊。</p><p>算法分析这门课还是有必要好好上的。</p><p>原本想看看政治的，但是好™热啊</p><h2 id="博客"><a href="#博客" class="headerlink" title="博客"></a>博客</h2><p>遇见了未知的错误，现在网有点差，得之后再去解决了</p><p>初步判断可能是配置文件写的有问题，但是很难去进行验证（难道趁此机会换个别的主题？）</p><h2 id="消费"><a href="#消费" class="headerlink" title="消费"></a>消费</h2><p>在食堂一楼发现了一家价格非常实惠而且蛮不错的面条，可以常驻了，因为真的很便宜</p><p>快递逐步的都要到了</p><h2 id="习惯"><a href="#习惯" class="headerlink" title="习惯"></a>习惯</h2><p>餐前消毒的习惯实在是很难养成，但是现在的问题是我真的得洗个澡了（而且图书馆现在依旧好热啊）</p><p>多喝水，脸上起了两个痘痘好难受</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> Post </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> next </tag>
+            
+            <tag> blog </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>算法第三课-够快的排序</title>
+      <link href="/AfterRead/Algorithm-Analysis/algorithm-analysis-learning-3/"/>
+      <url>/AfterRead/Algorithm-Analysis/algorithm-analysis-learning-3/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;algorithm&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;cmath&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;ctime&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> N 10</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">bool</span> <span class="title">cmp</span><span class="params">(<span class="keyword">int</span> a, <span class="keyword">int</span> b)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(a&lt;b) <span class="keyword">return</span> <span class="literal">true</span>;</span><br><span class="line">    <span class="keyword">else</span> <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">&#125; <span class="comment">//通过调整这个函数的符号来决定函数排序后序列的增减性</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">basefinder</span><span class="params">(<span class="keyword">int</span>* a, <span class="keyword">int</span> begin, <span class="keyword">int</span> end)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">int</span> i=begin+<span class="number">1</span>, j=end;</span><br><span class="line">    <span class="keyword">int</span> mid = a[i<span class="number">-1</span>];</span><br><span class="line">    <span class="keyword">while</span>(<span class="literal">true</span>) &#123;</span><br><span class="line">        <span class="keyword">while</span>(<span class="built_in">cmp</span>(a[i], mid) &amp;&amp; i &lt; end) &#123;i++;&#125;</span><br><span class="line">        <span class="keyword">while</span>(<span class="built_in">cmp</span>(mid, a[j])) &#123;j--;&#125;</span><br><span class="line">        <span class="keyword">if</span>(i &gt;= j) <span class="keyword">break</span>;</span><br><span class="line">        <span class="built_in">swap</span>(a[i], a[j]); <span class="comment">//stl库里边应该有swap函数吧， 我确实是懒得写了</span></span><br><span class="line"><span class="comment">//        int tmp = a[i];</span></span><br><span class="line"><span class="comment">//        a[i] = a[j];</span></span><br><span class="line"><span class="comment">//        a[j] = tmp;    //最后还是得自己写一个</span></span><br><span class="line"><span class="comment">//他喵的自己写的是错的</span></span><br><span class="line">    &#125;</span><br><span class="line">    a[begin] = a[i];</span><br><span class="line">    a[i] = mid;</span><br><span class="line">    <span class="keyword">return</span> mid;</span><br><span class="line">&#125;<span class="comment">//找一个合适的基准点，顺便交换数值</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">qSort</span><span class="params">(<span class="keyword">int</span>* a,<span class="keyword">int</span> begin, <span class="keyword">int</span> end)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(begin &lt; end) &#123;</span><br><span class="line">        <span class="keyword">int</span> mid = <span class="built_in">basefinder</span>(a, begin, end);</span><br><span class="line">        <span class="built_in">qSort</span>(a, begin, mid<span class="number">-1</span>);</span><br><span class="line">        <span class="built_in">qSort</span>(a, mid+<span class="number">1</span>, end);</span><br><span class="line">    &#125;<span class="comment">//递归啦啦啦</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">int</span> a[N+<span class="number">2</span>];</span><br><span class="line">    <span class="built_in">srand</span>(<span class="built_in">time</span>(<span class="number">0</span>));</span><br><span class="line">    cout&lt;&lt; <span class="string">&quot;before&quot;</span> &lt;&lt; endl;</span><br><span class="line"><span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">1</span>; i &lt;= N; i++) &#123;</span><br><span class="line">a[i]=<span class="built_in">rand</span>()%<span class="number">100</span>;</span><br><span class="line">        cout &lt;&lt; a[i] &lt;&lt; <span class="string">&#x27; &#x27;</span>;</span><br><span class="line">    &#125;</span><br><span class="line">    cout &lt;&lt; endl &lt;&lt; endl&lt;&lt; <span class="string">&quot;after&quot;</span> &lt;&lt; endl;</span><br><span class="line">    <span class="comment">// 在a数组中生成了N个随机数</span></span><br><span class="line">    <span class="built_in">qSort</span>(a, <span class="number">1</span>, N);</span><br><span class="line"><span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">1</span>; i &lt;= N; i++) cout &lt;&lt; a[i] &lt;&lt; <span class="string">&quot; &quot;</span>;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>有问题，属实有问题</p><p>但是因为我们有万能的STL，所以日后再谈，日后再谈</p><p>//刚刚给国同学讲时间复杂度的概念，结果拿快排举例子还举错了，我太菜了</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> AfterRead </category>
+          
+          <category> Algorithm Analysis </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> c艹 </tag>
+            
+            <tag> algorithm </tag>
+            
+            <tag> qSort </tag>
+            
+            <tag> STL </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>算法第二课-二分后查找</title>
+      <link href="/AfterRead/Algorithm-Analysis/algorithm-analysis-learning-2/"/>
+      <url>/AfterRead/Algorithm-Analysis/algorithm-analysis-learning-2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="吐槽"><a href="#吐槽" class="headerlink" title="吐槽"></a>吐槽</h2><p>老师见我们有的人买了实验报告书而有的人没买略微有些惊奇，我还在想代码的事情，结果老师告诉我们她填这本书完全是为了自己看看的，哈哈哈哈哈哈哈我是伞兵。不过老师随即表示这书买了也不亏，如果你想练练算法题不也方便许多吗。我觉得老师说的很有道理，然后打开了PTA</p><p>现在是上课一个小时后，看见长青大佬在疯狂刷题，我的心情十分复杂，根本无法沉下心来做题了T。T</p><h2 id="算法核心与分析"><a href="#算法核心与分析" class="headerlink" title="算法核心与分析"></a>算法核心与分析</h2><p>二分搜索，就是通过不断二分然后比较的方式来进行序列内元素的查找：</p><p>首先找到数组内的中间元素<code>mid</code>开始比较，然后向左从<code>begin</code>到<code>mid</code>，向右从<code>mid+1</code>到<code>end</code>逐步分治下去。最终比较到第一个所需的数字并返回其位置（如果数组内有多个相似的值就没办法了，我个人觉得可以写个优先队列来存储位置，但是我实在是太懒啦）</p><h2 id="算法代码"><a href="#算法代码" class="headerlink" title="算法代码"></a>算法代码</h2><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;ctime&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;algorithm&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> N 10</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">binarySearch</span><span class="params">(<span class="keyword">int</span> *a, <span class="keyword">int</span> begin, <span class="keyword">int</span> end, <span class="keyword">int</span> x)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(end - begin &gt;= <span class="number">0</span>)</span><br><span class="line">        <span class="keyword">while</span>(begin &lt; end) &#123;</span><br><span class="line">            <span class="keyword">int</span> mid = (begin + <span class="number">1</span> + end)/<span class="number">2</span>;</span><br><span class="line">            <span class="keyword">if</span> (x != a[begin]) &#123;</span><br><span class="line">            <span class="keyword">if</span>(<span class="built_in">binarySearch</span>(a, begin, mid, x) != <span class="number">-1</span>)<span class="keyword">return</span> <span class="built_in">binarySearch</span>(a, begin, mid, x);</span><br><span class="line">            <span class="keyword">else</span> <span class="keyword">return</span> <span class="built_in">binarySearch</span>(a, mid+<span class="number">1</span>, end, x);</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">else</span> <span class="keyword">return</span> begin;</span><br><span class="line">        &#125;</span><br><span class="line">    <span class="keyword">else</span> <span class="keyword">return</span> <span class="number">-1</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">int</span> a[N];</span><br><span class="line">    <span class="built_in">srand</span>(<span class="built_in">time</span>(<span class="number">0</span>));</span><br><span class="line">    cout&lt;&lt; <span class="string">&quot;before&quot;</span> &lt;&lt; endl ;</span><br><span class="line"><span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">1</span>; i &lt;= N; i++) &#123;</span><br><span class="line">a[i]=<span class="built_in">rand</span>()%<span class="number">100</span>;</span><br><span class="line">        cout &lt;&lt; a[i] &lt;&lt; <span class="string">&#x27; &#x27;</span>;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">// 在a数组中生成了100个随机数</span></span><br><span class="line">    <span class="comment">// 归并排序我们已经写过一个可以运行的了，这次就按照老师的要求写一个二分查找吧</span></span><br><span class="line">    cout &lt;&lt; endl &lt;&lt; <span class="string">&quot;which number do you like?&quot;</span> &lt;&lt; endl;</span><br><span class="line">    <span class="keyword">int</span> num;cin &gt;&gt; num;</span><br><span class="line">    cout &lt;&lt; <span class="built_in">binarySearch</span>(a, <span class="number">1</span>, N, num);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>报错的原因是因为第一个函数被程序判断为没有写返回值（如果实在看不顺眼可以写个<code>return 0;</code>不过这个永远也不会被用到罢了）</p><p>原本我是打算每次分治之后先检查第一个值然后再去接着二分的，但是仔细想想若如此做反而是浪费了更多的时间去进行重复的比较，所以最后还是按照这种方式来写。</p><h2 id="时间复杂度和空间复杂度"><a href="#时间复杂度和空间复杂度" class="headerlink" title="时间复杂度和空间复杂度"></a>时间复杂度和空间复杂度</h2><p>对于n长的序列进行二分搜索最差的情况也就进行了logn次查找，所以时间复杂度应该是O(logn)吧</p><p>空间复杂度基本就用了一个用来存数列的数组，也就是O(n)</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> AfterRead </category>
+          
+          <category> Algorithm Analysis </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> c艹 </tag>
+            
+            <tag> algorithm </tag>
+            
+            <tag> binarySearch </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>新学期快乐！</title>
+      <link href="/Post/happy-new-term/"/>
+      <url>/Post/happy-new-term/</url>
+      
+        <content type="html"><![CDATA[<h2 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h2><p>完全没在状态，除非不带手机</p><p>和小组成员分配了软工实验的任务，决定三个人进行结组</p><p>我分配到的是第4和第5实验，不过这个并不着急</p><h2 id="FF14"><a href="#FF14" class="headerlink" title="FF14"></a>FF14</h2><p>决定不玩赤魔了，还是玩武僧试探一番</p><p>赤魔我个人觉得问题主要有两个：</p><ul><li>触发只有50%略微看脸不说还很容易打乱节奏，虽然本身对节奏要求不高，但是一旦损失就会牺牲大量输出，而即便运气很好也打不出很高输出</li><li>职业特性太拉跨，快速吟唱虽然看起来很牛，但是反而加大了施法的要求和压力，我原本以为有这个技能的赤魔能减少处于吟唱的时间的，结果反而为了充分利用职业特性成为了一个全程都在吟唱的魔法师，瞬发的不消耗魔元的技能基本都是冲上去和跳回来，非常离谱</li></ul><h2 id="空调"><a href="#空调" class="headerlink" title="空调"></a>空调</h2><p>空调的使用确实很泛滥，不过双清同学的骚操作我也确实没看懂：每次出门前都要把空调顺手关闭，回来则立马打开，欸，一言难尽，不过他也确实是这种人，总在很小的事情上恶心你，这就是我孙子搬出去住的原因吧</p><p>为此我还是尽量使用我孙子的充电插头吧</p><h2 id="消费"><a href="#消费" class="headerlink" title="消费"></a>消费</h2><p>我每天要吃好多钱钱。。。</p><p>不过去超市的频次倒是大幅度下降</p><p>想去理个发</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> Post </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> FF14 </tag>
+            
+            <tag> SWE </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>今天血压起来了，老鼠屎</title>
+      <link href="/Post/are-you-nt/"/>
+      <url>/Post/are-you-nt/</url>
+      
+        <content type="html"><![CDATA[<h2 id="血压"><a href="#血压" class="headerlink" title="血压"></a>血压</h2><p>关于血压这方面，我是真没想到的，如果这大冷天的还要开冷气，如果电费起飞我是真的打算跑路的，太受不了了。特别是孙子告诉我的lss约炮事件，我™真的是接受不能，现在的这一代人已经开放到了这种程度了吗，吐了，太™操蛋了。</p><p>而且我发现我真是无法忍受lss说的任何一句话了，关于开门随手不关门这种事情真的不是第一次说了，但是™的你说个对不起有个鸡巴用啊，你是nt吗，每次都说对不起不好意思，那你倒是改啊，原谅你个jb，你做错了不改就是给我磕个头也不顶屎啊，我真™服了，我能把你妈坟掘了然后说声不好意思吗？哦哦哦，不好意思，你没妈啊。</p><p>学校又把操场围墙加固了一番，不过即便如此也挡不住学生们出去的心，哈哈哈。</p><h2 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h2><p>学习是不可能学习的，今天下午去了趟图书馆，图书馆一楼是开放的，而剩下的并没有开放，明天还是去看看吧，上午就不带苏菲了，中午带上刚好可以上实验课。</p><h2 id="消费"><a href="#消费" class="headerlink" title="消费"></a>消费</h2><p>最近的消费水平维持一般，我感觉要是能忍到双十一可以考虑爆发一波爽一爽，也算是有个盼头了。</p><p>搬出去确实很烧钱，不过空调吗。。。很难说啊</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> Post </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>周六的快乐我总是无法感受完全</title>
+      <link href="/Post/ff14-and-happy-life/"/>
+      <url>/Post/ff14-and-happy-life/</url>
+      
+        <content type="html"><![CDATA[<h2 id="焦虑（学习）"><a href="#焦虑（学习）" class="headerlink" title="焦虑（学习）"></a>焦虑（学习）</h2><p>学不进去玩不进去，真™难受</p><p>这就是适应障碍吗，老混子了</p><p>但是周围的同学都在疯狂好好学习，他喵的救我一个天天想着打游戏</p><p>整理一下要打印的素材，按照专业课（具体来说应该是操作系统），数学（这个暂时不需要打印），英语（这个素材太多了），政治（这个需求量倒是蛮大的）</p><ul><li>操作系统思维导图</li><li>政治课件的PPT</li></ul><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><p>六十四同学居然打扫了卫生，这是我没想到的</p><p>洗手液到货了，感觉蛮不错的，生活品质++？</p><p>想入手bose大鲨，确实好贵，难顶啊，我感觉完全没有必要顶到双十一，但是这种事情实在是很难说</p><h2 id="健康"><a href="#健康" class="headerlink" title="健康"></a>健康</h2><p>如果说我每天能起床的话，那么入睡就很难</p><p>红牛要到货了</p><p>比较难过的就是运动根本无法坚持下去了</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> Post </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> daily </tag>
+            
+            <tag> FF14 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>一 软件工程概述</title>
+      <link href="/AfterRead/Software-Engineering/software-engineering-learning-2/"/>
+      <url>/AfterRead/Software-Engineering/software-engineering-learning-2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件危机"><a href="#软件危机" class="headerlink" title="软件危机"></a>软件危机</h2><h3 id="软件开发的特性"><a href="#软件开发的特性" class="headerlink" title="软件开发的特性"></a>软件开发的特性</h3><ul><li><p>难以描述性</p></li><li><p>缺乏可见性</p></li><li><p>复杂性</p></li><li><p>变化性</p></li><li><p>风险性</p></li><li><p>强合作性</p></li></ul><h3 id="软件危机-1"><a href="#软件危机-1" class="headerlink" title="软件危机"></a>软件危机</h3><p>在软件开发过程中所存在的周期长、成本高、质量低等问题</p><ul><li>缺乏计划性</li><li>软件需求获取不充分，不准确</li><li>缺乏团队开发的合作、协调能力</li><li>缺乏良好的软件质量评测手段</li><li>可维护性差</li><li>可复用性差</li><li>开发过程不规范</li><li>缺乏自动化的工具来协助开发</li><li>缺乏变更管理措施</li><li>缺乏风险管理手段</li></ul><h2 id="软件工程的概念"><a href="#软件工程的概念" class="headerlink" title="软件工程的概念"></a>软件工程的概念</h2><p>软件工程是以质量为核心，为了经济地开发满足客户需求的软件而研究、建立和应用的系统化的、有规则的、可度量的和可控制的工程原则、方法，设计软件过程、项目管理、开发方法、开发工具，甚至企业文化等各个方面。</p><p>由此可以拆分为</p><ol><li>以质量为中心</li><li>经济性</li><li>满足客户需求</li><li>研究、建立和应用</li><li>系统化</li><li>有规则</li><li>可度量</li><li>可控制</li><li>软件过程</li><li>项目管理</li><li>开发方法</li><li>开发工具</li><li>企业文化</li></ol><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> AfterRead </category>
+          
+          <category> Software Engineering </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> SWE </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>见鬼，这些符号到底有什么不同？</title>
+      <link href="/AfterRead/diffence-between-many-simple/"/>
+      <url>/AfterRead/diffence-between-many-simple/</url>
+      
+        <content type="html"><![CDATA[<h2 id="引子–二叉树交换左右子树"><a href="#引子–二叉树交换左右子树" class="headerlink" title="引子–二叉树交换左右子树"></a>引子–二叉树交换左右子树</h2><p>昨日的题目大概是这样？</p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">change</span><span class="params">(bitnode *&amp;t, <span class="keyword">int</span> x, <span class="keyword">int</span> y)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">bitnode *temp = <span class="keyword">new</span> bitnode;</span><br><span class="line"><span class="keyword">if</span> (t)</span><br><span class="line">&#123;</span><br><span class="line"><span class="keyword">if</span> (t==<span class="literal">NULL</span>)<span class="keyword">return</span><span class="comment">//若是根节点为NULL，递归结束</span></span><br><span class="line">temp = t-&gt;lchild;</span><br><span class="line">t-&gt;lchild = t-&gt;rchild;</span><br><span class="line">t-&gt;rchild = temp;</span><br><span class="line"><span class="built_in">change</span>(t-&gt;lchild, x, y);</span><br><span class="line"><span class="built_in">change</span>(t-&gt;rchild, x, y);</span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>（代码是我网上dang来的，我懒得传图片了）只不过在第一行的位置应该是忘记写了*，据我回忆的几个细节大概是这样的</p><p>不完全代码：</p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">switchLRTree</span><span class="params">(bitree &amp;T)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    bitnode *temp = T-&gt;lchild;</span><br><span class="line">    T-&gt;lchild = T-&gt;rchild;</span><br><span class="line">    T-&gt;rchild = temp;</span><br><span class="line">    switchLRTree .....</span><br><span class="line">        .....</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>问题主要出在两处，一个是函数传入的是树的地址而非指针，以至于在函数运行过程中修改成了树的值在函数中所被指向的指针的值。感觉不太好理解，没关系，我们先再来复习一下关于在初学函数时所使用的形参和实参的概念。</p><h3 id="形参和实参"><a href="#形参和实参" class="headerlink" title="形参和实参"></a>形参和实参</h3><p>对于一个函数，内部所使用的变量被成为局部变量，函数外所定义的变量则是全局变量，相对于全局变量而言，局部变量仅能在函数内部使用。而在函数的调用过程中，函数所定义并使用的变量是形参，在使用函数调入数据时，会将实参的值赋予形参后，在函数内部进行运算，但是却只会修改函数内部的形参，无法对实参产生影响。</p><p>也就是如果我们想要用函数修改函数之外的变量的值，就必须要使用指针，传入变量的地址而非值，通过地址准确修改其所指向的值。（在二叉树这里的swap如果按照惯性思维很容易想岔，因为调用的是指针的指针，也就是在第三层）</p><h2 id="指针和地址"><a href="#指针和地址" class="headerlink" title="指针和地址"></a>指针和地址</h2><p>那么怎么才能升到大气层呢？我们还是得仔细考虑一下指针和地址的关系（*和&amp;）</p><blockquote><p>变量都放置在内存中，内存的每个字节都有一个成为地址的编号，而变量的地址则是这一定数目的字节的第一个的地址。</p></blockquote><p>使用<code>int* a</code>则会定义一个指向<code>int</code>型变量的指针</p><p>变量名前面加<code>&amp;</code>则是去该变量的地址</p><p>倘若在这之后使用<code>a = &amp;b</code>，则是将变量b的地址存放到a之中，这时，<code>*a</code>便是a所指向的变量。（这里仅仅是指向的变量，而非变量的值，大概就是人名和人身的区别吧）</p><p>因此回到引子，如果我们想要交换两个普通的变量的值，则需要在swap函数中如此定义</p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">swap</span><span class="params">(<span class="keyword">int</span>* a, <span class="keyword">int</span>* b)</span></span>;</span><br></pre></td></tr></table></figure><p>% cq %</p><p>当然这里需要注意的是，指针虽然也是一种变量，但是却不推荐拿来直接用(比如定义一个整形指针i，然后给*i赋值当整形变量用)，因为你给指针赋值前他是不确定的，搞不好他所代表的内存单元偏偏就不能写入呢？</p><p>% endcq %</p><h2 id="结构体以及之后的二叉树"><a href="#结构体以及之后的二叉树" class="headerlink" title="结构体以及之后的二叉树"></a>结构体以及之后的二叉树</h2><p>当swap和二叉树交错在一起，事情就变得更加棘手了，不过我们首先来看看结构体里的指针是怎么搞的。</p><p><code>this</code> 指向当前变量的指针</p><p><code>this-&gt;x</code> 当前对象的成员变量x （等价于<code>(*this).x</code>）</p><p>这个时候再回去看文章开头的代码，发现好像有些许不太优雅的地方，修改如下</p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">change</span><span class="params">(bitnode *t, <span class="keyword">int</span> x, <span class="keyword">int</span> y)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">bitnode *temp = <span class="keyword">new</span> bitnode;</span><br><span class="line"><span class="keyword">if</span> (t)</span><br><span class="line">&#123;</span><br><span class="line">temp = t-&gt;lchild;</span><br><span class="line">t-&gt;lchild = t-&gt;rchild;</span><br><span class="line">t-&gt;rchild = temp;</span><br><span class="line"><span class="built_in">change</span>(t-&gt;lchild, x, y);</span><br><span class="line"><span class="built_in">change</span>(t-&gt;rchild, x, y);</span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>在二叉树定义中，节点的类型是<code>bitnode</code>的话，左右子节点的类型就是<code>bitnode *</code>，也就是指向节点类型的指针。所以指针对指针，值对值，不能搞混。</p><p>（好™复杂）</p><p>所以错在两处，函数应当调入指针，然后用结构体构造好temp后再用来倒腾。</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> AfterRead </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> c艹 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>感叹这操蛋的生活--以及探索一番markdown的技巧</title>
+      <link href="/AfterRead/explore-hexo-life-fuckegg/"/>
+      <url>/AfterRead/explore-hexo-life-fuckegg/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Hexo相关的markdown语法"><a href="#Hexo相关的markdown语法" class="headerlink" title="Hexo相关的markdown语法"></a>Hexo相关的markdown语法</h2><h3 id="引用文章"><a href="#引用文章" class="headerlink" title="引用文章"></a>引用文章</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&#123;% post<span class="emphasis">_path filename %&#125;</span></span><br><span class="line"><span class="emphasis">&#123;% post_</span>link filename [title] [escape] %&#125;</span><br></pre></td></tr></table></figure><p>在使用此标签时可以忽略文章文件所在的路径或者文章的永久链接信息、如语言、日期。</p><p>默认链接文字是文章的标题，你也可以自定义要显示的文本。</p><h4 id="链接使用文章的标题"><a href="#链接使用文章的标题" class="headerlink" title="链接使用文章的标题"></a>链接使用文章的标题</h4><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% post<span class="emphasis">_link there-is-no-time-to-play %&#125;</span></span><br></pre></td></tr></table></figure><p>% post_link there-is-no-time-to-play %</p><h4 id="链接使用自定义文字"><a href="#链接使用自定义文字" class="headerlink" title="链接使用自定义文字"></a>链接使用自定义文字</h4><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% post<span class="emphasis">_link there-is-no-time-to-play &#x27;通往文章的链接&#x27; %&#125;</span></span><br></pre></td></tr></table></figure><p>% post_link there-is-no-time-to-play ‘通往文章的链接’ %</p><h2 id="感叹生活"><a href="#感叹生活" class="headerlink" title="感叹生活"></a>感叹生活</h2><h4 id="操蛋的宿舍"><a href="#操蛋的宿舍" class="headerlink" title="操蛋的宿舍"></a>操蛋的宿舍</h4><p>今天回到宿舍发现<code>eggfucker</code>正在开着门开着窗户盖着被子吹空调，我™觉得就离谱，™的整个就是一个脑瘫吧，交流起来也和脑瘫一样，我只感觉心累，艹。</p><h4 id="买个包得了"><a href="#买个包得了" class="headerlink" title="买个包得了"></a>买个包得了</h4><p>​    如果我想要长久的往各处来回跑，搞一个靠谱的包是必然的，这个我得深思熟虑一番，以免最后浪费金钱精力。</p><h4 id="ff14"><a href="#ff14" class="headerlink" title="ff14"></a>ff14</h4><p>看起来很不错的游戏，准备搞个赤魔法师尝试一番</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> AfterRead </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> blog </tag>
+            
+            <tag> markdown </tag>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>算法第一课-分治下的归并</title>
+      <link href="/AfterRead/Algorithm-Analysis/algorithm-analysis-learning-1/"/>
+      <url>/AfterRead/Algorithm-Analysis/algorithm-analysis-learning-1/</url>
+      
+        <content type="html"><![CDATA[<h2 id="核心思想"><a href="#核心思想" class="headerlink" title="核心思想"></a>核心思想</h2><p>归并排序的核心操作是归并（一般是二路归并），首先将待排序数列分割成若干个小子序列，在对最小的子序列进行完合并操作后，再将这些有序表逐步合并成为最终的有序序列。这个算法在老师的PPT上好像是叫做合并排序，本质上是一样的。</p><h2 id="具体分析"><a href="#具体分析" class="headerlink" title="具体分析"></a>具体分析</h2><h3 id="题目要求"><a href="#题目要求" class="headerlink" title="题目要求"></a>题目要求</h3><p>随机生成n（例如100）个数，利用分治的思想设计算法进行排序，并分析算法的复杂度</p><h3 id="代码实现及思路"><a href="#代码实现及思路" class="headerlink" title="代码实现及思路"></a>代码实现及思路</h3><p>初步代码思路为下</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;ctime&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> N 100</span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> a[<span class="number">10005</span>], b[<span class="number">10005</span>] = &#123;<span class="number">0</span>&#125;;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">mergesort</span><span class="params">(<span class="keyword">int</span> *ar, <span class="keyword">int</span> begin, <span class="keyword">int</span> end)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(begin &lt; end) &#123;  <span class="comment">//保证数组还有的分</span></span><br><span class="line">        <span class="keyword">int</span> i = (end + begin)/<span class="number">2</span>;</span><br><span class="line">        <span class="built_in">mergesort</span>(ar, begin, i);</span><br><span class="line">        <span class="built_in">mergesort</span>(ar, i+<span class="number">1</span>, end);</span><br><span class="line">        <span class="comment">//找中点，然后分治</span></span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> l = begin; l &lt;= end; l++)  b[l] = a[l]; <span class="comment">//将合并后的数列放到原数列</span></span><br><span class="line">        <span class="keyword">int</span> j = begin, k = i+<span class="number">1</span>;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span>  n = begin; n &lt;= end; n++) &#123;</span><br><span class="line">            <span class="keyword">if</span>(j &gt; i) a[n] = b[k++];</span><br><span class="line">            <span class="keyword">else</span> <span class="keyword">if</span>(k &gt; end) a[n] = b[j++];</span><br><span class="line">            <span class="keyword">else</span> <span class="keyword">if</span>(b[j] &lt; b[k]) a[n] = b[j++];</span><br><span class="line">            <span class="keyword">else</span> a[n] = b[k++];</span><br><span class="line">        &#125; <span class="comment">//将两个有序数列合并成一个有序数列</span></span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="built_in">srand</span>(<span class="built_in">time</span>(<span class="number">0</span>));</span><br><span class="line">    cout&lt;&lt; <span class="string">&quot;before&quot;</span> &lt;&lt; endl ;</span><br><span class="line"><span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">1</span>; i &lt;= N; i++) &#123;</span><br><span class="line">a[i]=<span class="built_in">rand</span>()%<span class="number">100</span>;</span><br><span class="line">        cout &lt;&lt; a[i] &lt;&lt; <span class="string">&#x27; &#x27;</span>;</span><br><span class="line">    &#125;</span><br><span class="line">    cout &lt;&lt; endl &lt;&lt; endl&lt;&lt; <span class="string">&quot;after&quot;</span> &lt;&lt; endl;</span><br><span class="line">    <span class="comment">// 在a数组中生成了100个随机数</span></span><br><span class="line">    <span class="comment">// 分治的思想中，由于c++的STL库中自有快速排序，所以我选择写一个简单的合并排序</span></span><br><span class="line">    <span class="built_in">mergesort</span>(a, <span class="number">1</span>, N);</span><br><span class="line"><span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">1</span>; i &lt;= N; i++) cout &lt;&lt; a[i] &lt;&lt; <span class="string">&quot; &quot;</span>;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>先利用<code>ctime</code>库里的<code>rand()</code>函数生成100个随机数。</p><p>再写一个归并排序，首先判断是否是最小数列，否则便通过递归调用本身继续分治，然后再将分治后的两个有序数列进行合并，最终完成排序</p><h3 id="算法空间复杂度和时间复杂度分析"><a href="#算法空间复杂度和时间复杂度分析" class="headerlink" title="算法空间复杂度和时间复杂度分析"></a>算法空间复杂度和时间复杂度分析</h3><h4 id="空间复杂度"><a href="#空间复杂度" class="headerlink" title="空间复杂度"></a>空间复杂度</h4><p>使用了两个相当于数据量大小的一维数组，因此是O(n)</p><h4 id="时间复杂度"><a href="#时间复杂度" class="headerlink" title="时间复杂度"></a>时间复杂度</h4><p>在归并的过程中，每次进行一个层级的归并操作的时间复杂度都是O(n)，而由于是二分的思想，所以归并的层级总共有log<del>2</del>n层，也就是执行了log<del>2</del>n次归并操作，最终的时间复杂度便是O(nlog<del>2</del>n)</p><p>​                                    </p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> AfterRead </category>
+          
+          <category> Algorithm Analysis </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Divide and Conquer </tag>
+            
+            <tag> mergeSort </tag>
+            
+            <tag> c艹 </tag>
+            
+            <tag> algorithm </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>怎样将博客内容相关的源文件保存在Github上</title>
+      <link href="/AfterRead/how-save-blog-github/"/>
+      <url>/AfterRead/how-save-blog-github/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前情提要"><a href="#前情提要" class="headerlink" title="前情提要"></a>前情提要</h2><p>首先，我们要知道哪些文件是可替代的，哪些文件是用户配置之后需要保留的</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">- scaffolds  ##新建博客的模板文件</span><br><span class="line">- source  ##博客上传中的所有内容文件，也可以放一些你自己写的html</span><br><span class="line">- themes  ##所有的主题文件</span><br><span class="line">- _config.yml  ##博客的配置文件</span><br></pre></td></tr></table></figure><h2 id="插件安装"><a href="#插件安装" class="headerlink" title="插件安装"></a>插件安装</h2><p>不过你不知道哪些需要保留应该也无关紧要，因为我们今天使用的是<code>git-deployer-git</code>这款插件，首先使用下列语句来进行安装</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><h2 id="使用介绍"><a href="#使用介绍" class="headerlink" title="使用介绍"></a>使用介绍</h2><p>在博客源文件的<code>_config.yml</code>中进行配置</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 你可以这样使用:</span></span><br><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span>  <span class="comment">#自行选择自己部署的网站</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">&lt;项目地址&gt;</span>   <span class="comment">#https://github.com/用户名/项目名.git</span></span><br><span class="line">  <span class="attr">branch:</span> [<span class="string">分支名字</span>]  <span class="comment">#如果使用的GitHub，将会默认使用gh-pages，不然一般都是master</span></span><br><span class="line">  <span class="attr">token:</span> <span class="string">&#x27;&#x27;</span></span><br><span class="line">  <span class="attr">message:</span> [<span class="string">信息</span>]  <span class="comment">#提交时的信息，默认是Site updated: &#123;&#123; now(&#x27;YYYY-MM-DD HH:mm:ss&#x27;) &#125;&#125;</span></span><br><span class="line">  <span class="attr">name:</span> [<span class="string">git的用户名</span>]</span><br><span class="line">  <span class="attr">email:</span> [<span class="string">git的邮箱</span>]</span><br><span class="line">  <span class="attr">extend_dirs:</span> [<span class="string">extend</span> <span class="string">directory</span>]  <span class="comment">#在此处设置要部署的目录</span></span><br><span class="line">  <span class="attr">ignore_hidden:</span> <span class="literal">false</span> <span class="comment"># 默认是true</span></span><br><span class="line">  <span class="attr">ignore_pattern:</span> <span class="string">regexp</span>  <span class="comment"># 在进行部署时将要自动忽略的文件，regexp代表全部</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 或者这样:</span></span><br><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">message:</span> [<span class="string">信息</span>]</span><br><span class="line">  <span class="attr">repo:</span> <span class="string">&lt;项目地址&gt;[,分支名字]</span></span><br><span class="line">  <span class="attr">extend_dirs:</span></span><br><span class="line">    <span class="bullet">-</span> [<span class="string">extend</span> <span class="string">directory</span>]</span><br><span class="line">    <span class="bullet">-</span> [<span class="string">another</span> <span class="string">extend</span> <span class="string">directory</span>]</span><br><span class="line">  <span class="attr">ignore_hidden:</span></span><br><span class="line">    <span class="attr">public:</span> <span class="literal">false</span></span><br><span class="line">    [<span class="string">extend</span> <span class="string">directory</span>]<span class="string">:</span> <span class="literal">true</span></span><br><span class="line">    [<span class="string">another</span> <span class="string">extend</span> <span class="string">directory</span>]<span class="string">:</span> <span class="literal">false</span></span><br><span class="line">  <span class="attr">ignore_pattern:</span></span><br><span class="line">    [<span class="string">folder</span>]<span class="string">:</span> <span class="string">regexp</span>  <span class="comment"># or you could specify the ignore_pattern under a certain directory</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 或者进行多项仓库的统一配置</span></span><br><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">repo:</span></span><br><span class="line">    <span class="comment"># Either syntax is supported</span></span><br><span class="line">    [<span class="string">仓库名</span>]<span class="string">:</span> <span class="string">&lt;项目地址&gt;[,分支名字]</span></span><br><span class="line">    [<span class="string">仓库名</span>]<span class="string">:</span></span><br><span class="line">      <span class="attr">url:</span> <span class="string">&lt;项目地址&gt;</span></span><br><span class="line">      <span class="attr">branch:</span> [<span class="string">分支名字</span>]</span><br></pre></td></tr></table></figure><p>所以保存源目录的方式就很简单了，在GitHub上创立两个分支<code>gh-pages</code>和<code>master</code>（自然，你可以使用任意你想要的名字，把配置文件修改一番即可）然后按照一下方式修改配置文件（部署两次到两个分支去）</p><p><code>gh-pages</code>是用来展示博客网站的分支，所以记得在项目的<code>Settings</code>中的<code>Pages</code>选项中将<code>Source</code>设置成 <code>Branch:gh-pages</code> 和<code>/root</code>(如果你有其他想法也可以设置成别的)</p><p><code>master</code>文件中存储的即是所有需要保存的文件，需要的时候使用<code>hexo init</code>一个文件然后把<code>master</code>拷下来覆盖即可。</p><h3 id="最终代码"><a href="#最终代码" class="headerlink" title="最终代码"></a>最终代码</h3><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># _config.yaml</span></span><br><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="bullet">-</span> <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">    <span class="attr">repo:</span> <span class="string">git@github.com:&lt;用户名&gt;/&lt;用户名&gt;.github.io.git</span></span><br><span class="line">    <span class="attr">branch:</span> <span class="string">gh-pages</span></span><br><span class="line">  <span class="bullet">-</span> <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">    <span class="attr">repo:</span> <span class="string">git@github.com:&lt;用户名&gt;/&lt;用户名&gt;.github.io.git</span></span><br><span class="line">    <span class="attr">branch:</span> <span class="string">master</span></span><br><span class="line">    <span class="attr">extend_dirs:</span> <span class="string">/</span></span><br><span class="line">    <span class="attr">ignore_hidden:</span> <span class="literal">false</span></span><br><span class="line">    <span class="attr">ignore_pattern:</span></span><br><span class="line">        <span class="attr">public:</span> <span class="string">.</span></span><br></pre></td></tr></table></figure><h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><p>记得将博客源文件和主题源文件中的<code>.git</code>文件夹删除，如果有的话</p><h4 id="待解决"><a href="#待解决" class="headerlink" title="待解决"></a>待解决</h4><ul><li><p>字体文件只能本机查看</p></li><li><p>每次部署都需要删除<code>.deploy_git</code>,有点麻烦且还没搞懂</p>  <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">rm -rf .deploy_git</span><br></pre></td></tr></table></figure></li></ul><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> AfterRead </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> blog </tag>
+            
+            <tag> hexo </tag>
+            
+            <tag> Github </tag>
+            
+            <tag> git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>走在毁灭的悬崖边缘</title>
+      <link href="/Post/there-is-no-time-to-play/"/>
+      <url>/Post/there-is-no-time-to-play/</url>
+      
+        <content type="html"><![CDATA[<p>没错，人已经要没了，二战也是不可能二战的了。</p><p>9月17日进行CCF能力认证考试，12日之前我还需要做出最终的抉择。</p><p>我希望我能一天学完全部的操作系统和数学，然后疯狂搞C艹，最后直接起飞，只可惜这些都毫无意义。</p><p>脑子不转了，待会再写吧。</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> Post </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> DOOM </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于markdown中使用思维导图的测试与研究</title>
+      <link href="/AfterRead/mermaid-text/"/>
+      <url>/AfterRead/mermaid-text/</url>
+      
+        <content type="html"><![CDATA[<p>mermaid的markdown语法<br>graph LR<br>A[方块] –&gt; B(圆块)<br>B –&gt; C{菱形}<br>C –&gt; |1| D[方块1]<br>C –&gt; |2| E[方块2]</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">graph LR</span><br><span class="line">A[方块] --&gt; B(圆块)</span><br><span class="line">B --&gt; C&#123;菱形&#125;</span><br><span class="line">C --&gt; |1| D[方块1]</span><br><span class="line">C --&gt; |2| E[方块2]</span><br></pre></td></tr></table></figure><p>很遗憾，上述语法只能在typora中使用，hexo中是看不到的</p><p>只不过可以通过</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-simple-mindmap</span><br></pre></td></tr></table></figure><p>的方式安装一个使用起来相对简单的思维导图插件，顺便也测试一下</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">&#123;% pullquote mindmap mindmap-md %&#125;</span><br><span class="line">- [Hexo 的思维导图插件](https://hunterx.xyz/hexo-simple-mindmap-plugin-intro.html)</span><br><span class="line">  - 前言</span><br><span class="line">  - 使用方法</span><br><span class="line">    - 一</span><br><span class="line">    - 二</span><br><span class="line">    - 三</span><br><span class="line">  - 太长不看</span><br><span class="line">  - 参考资料</span><br><span class="line">&#123;% endpullquote %&#125;</span><br></pre></td></tr></table></figure><blockquote class="pullquote mindmap mindmap-md"><ul><li>内存管理<ul><li>程序执行过程<ul><li>编译、链接、装入</li><li>逻辑地址和物理地址</li></ul></li><li>扩充内存————覆盖与交换</li><li>连续分配<ul><li>单一连续分配</li><li>固定分区分配————内部碎片</li><li>动态分区分配<ul><li>外部碎片</li><li>分配算法：首次、最佳、最坏、邻近适应</li></ul></li></ul></li><li>非连续分配<ul><li>页式存储管理<ul><li>概念：页面、地址结构、页表</li><li>地址变化机构及变换过程</li><li>快表</li></ul></li><li>段页式存储管理————段表、地址变换机构、段的共享与保护</li><li>段页式存储管理————段表、页表</li></ul></li><li>虚拟内存<ul><li>概念<ul><li>局部性原理</li><li>特征：多次性、对换性、虚拟性</li></ul></li><li>请求分页<ul><li>组成：页表机构、缺页中断机构、地址变换机构</li><li>页面置换算法<ul><li>最佳置换（OPT）</li><li>先进先出（FIFO）————Belady异常</li><li>最近最久未使用（LRU）</li><li>时钟（CLOCK）算法</li></ul></li><li>页面分配策略————预调页策略、请求调页策略</li><li>抖动、工作集     </li></ul></li></ul></li></ul></li></ul></blockquote><p>实在是太大了，不太好用，只能轻量级的使用一下，还算可以吧</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> AfterRead </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> blog </tag>
+            
+            <tag> markdown </tag>
+            
+            <tag> mermaid </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>软工第一课-概述与软件危机</title>
+      <link href="/AfterRead/Software-Engineering/software-engineering-learning-1/"/>
+      <url>/AfterRead/Software-Engineering/software-engineering-learning-1/</url>
+      
+        <content type="html"><![CDATA[<p>重新来过了，之前的博客因为我实在是太懒了，以致于没有把源文件从阿里云上拷贝下来，现在服务器已经被释出了，心情复杂。旧的文件我全放在<code>.oldold</code>项目里了，正如上次一样。</p><p>实际上这次课一直在捣鼓捣鼓博客，根本没在好好听，不过第一节课不算很深奥，我就照着ppt和课本大概梳理一下，顺便也把课后作业写咯。</p><h3 id="软件工程学科发展历史"><a href="#软件工程学科发展历史" class="headerlink" title="软件工程学科发展历史"></a>软件工程学科发展历史</h3><h4 id="概念提出"><a href="#概念提出" class="headerlink" title="概念提出"></a>概念提出</h4><ul><li>1968年NATO会议提出概念</li><li>1972年IEEE-CS出版学报</li></ul><h4 id="学科雏形"><a href="#学科雏形" class="headerlink" title="学科雏形"></a>学科雏形</h4><ul><li>上世纪70年代末，美国加入研究生教育计划</li><li>1991年被ACM和IEEE/CS列入计算学科</li></ul><h4 id="学科确立"><a href="#学科确立" class="headerlink" title="学科确立"></a>学科确立</h4><ul><li>2004年8月 被IEEE-CS和ACM给出（SWEBOK[^10个领域]和SEEK）<blockquote><p>软件工程、计算机科学、计算机工程、信息系统、信息技术 并列</p></blockquote></li></ul><h1 id="软件工程学概述"><a href="#软件工程学概述" class="headerlink" title="软件工程学概述"></a>软件工程学概述</h1><p>软件工程是指导计算机软件开发与维护的一门工程学科</p><blockquote><p>工程：将科学及数学原理运用于实际用途的应用手段，如：设计、制造、机器操纵、构架等。</p></blockquote><h2 id="软件危机"><a href="#软件危机" class="headerlink" title="软件危机"></a>软件危机</h2><p>软件工程学自“软件危机”始</p><h3 id="软件危机介绍"><a href="#软件危机介绍" class="headerlink" title="软件危机介绍"></a>软件危机介绍</h3><h4 id="软件的发展"><a href="#软件的发展" class="headerlink" title="软件的发展"></a>软件的发展</h4><ul><li>程序设计阶段</li><li>程序系统阶段</li><li>软件工程阶段</li></ul><h4 id="什么？"><a href="#什么？" class="headerlink" title="什么？"></a>什么？</h4><p>指在计算机软件的开发和维护过程中，所遇见的一系列严重问题。</p><ul><li>如何开发软件-&gt;以满足日益增长的需求</li><li>如何维护软件-&gt;软件数量不断膨胀</li></ul><h4 id="典型表现"><a href="#典型表现" class="headerlink" title="典型表现"></a>典型表现</h4><ol><li>开发费用和进度难以估算控制导致超出预算</li><li>需求分析不充分导致用户不满意最终产品</li><li>质量难以保证；软件质量保证技术没能应用到开发全过程</li><li>维护困难(<strong>常常是不可维护的</strong>)</li><li>未保留适当的文档资料<blockquote><p>文档的作用<br><strong>软件开发管理人员</strong>:用于管理和评价软件开发工程的进展状况<br><strong>软件开发人员</strong>:用于开发人员对各个阶段的工作都进行周密思考、全盘权衡、从而减少返工。并且可在开发早期发现错误和不一致性，便于及时加以纠正<br><strong>软件维护人员</strong>:软件维护的依据</p></blockquote></li><li>软件成本在计算机系统总成本的比例逐年上升</li><li>软件开发生产率提高速度不及计算机应用普及速度</li></ol><h4 id="产生原因"><a href="#产生原因" class="headerlink" title="产生原因"></a>产生原因</h4><h5 id="本身特点"><a href="#本身特点" class="headerlink" title="本身特点"></a>本身特点</h5><h6 id="与硬件不同"><a href="#与硬件不同" class="headerlink" title="与硬件不同"></a>与硬件不同</h6><ul><li>不可见性</li><li>是设计开发的逻辑产品</li><li>不会“磨损”，但是回退化(问题的隐蔽性)</li><li>开发和运行依赖于特点的计算机系统环境</li><li>具有可复用性</li></ul><h6 id="与一般程序不同"><a href="#与一般程序不同" class="headerlink" title="与一般程序不同"></a>与一般程序不同</h6><ul><li>规模庞大，复杂</li><li>大型软件开发既有技术问题也有社会问题<h5 id="开发与维护的方法不正确"><a href="#开发与维护的方法不正确" class="headerlink" title="开发与维护的方法不正确"></a>开发与维护的方法不正确</h5></li><li>对需求获取不正确</li><li>认为软件开发就是写程序并设法使之运行</li><li>软件开发只要依靠个别编程高手就能完成</li><li>轻视软件维护<blockquote><p>维护费用往往占据总费用的55%-75%，提高软件的可维护性是重要目标</p></blockquote></li></ul><h5 id="其他原因"><a href="#其他原因" class="headerlink" title="其他原因"></a>其他原因</h5><ul><li>软件开发尚未完全摆脱手工艺的开发方式。</li><li>软件成本相当昂贵，主要依靠大量复杂的、高强度的脑力劳动</li><li>软件的开发和运行常常受到计算机系统的限制，对计算机系统有着不同程度的依赖性。</li></ul><h4 id="消除途径"><a href="#消除途径" class="headerlink" title="消除途径"></a>消除途径</h4><ol><li>对计算机软件有正确的认识，彻底消除“软件就是程序”的错误观念。<blockquote><p>软件=程序+数据+文档<br>程序是能够完成预定功能和性能的可执行的指令序列；<br>数据是使程序能够适当地处理信息的数据结构；<br>文档是开发、使用和维护程序所需要的图文资料</p></blockquote></li><li>充分认识到软件开发是一种组织良好、管理严密、各类人员协同配合、共同完成的工程项目，不是个人独立的劳动。</li><li>推广和使用在实践中总结出来的软件开发的成功技术和方法。</li><li>开发和使用更好的软件工具</li></ol><h3 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h3><p>软件工程正是从<strong>管理</strong>和<strong>技术</strong>两方面研究如何更好地开发和维护计算机软件的。<br>按工程化的原则和方法组织软件开发工作是有效的，是摆脱软件危机的一个主要出路。</p><p>[^10个领域]: 需求 设计 构造 测试 维护 配置管理 工程管理 工程过程 工程工具和方法 质量</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.4.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> AfterRead </category>
+          
+          <category> Software Engineering </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> next </tag>
+            
+            <tag> blog </tag>
+            
+            <tag> hexo </tag>
+            
+            <tag> SWE </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
