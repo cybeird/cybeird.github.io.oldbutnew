@@ -24,7 +24,7 @@
 
   <!-- 页面元数据 -->
   
-  <title>标签：Volantis - Sundedi&#39;s Blog</title>
+  <title>归档：2021 - Sundedi&#39;s Blog</title>
   
 
   
@@ -107,7 +107,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
   <body>
     
 
-<header id="l_header" class="l_header auto shadow blur show" style='opacity: 0' >
+<header id="l_header" class="l_header auto shadow blur " style='opacity: 0' >
   <div class='container'>
   <div id='wrapper'>
     <div class='nav-sub'>
@@ -353,7 +353,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
       <div id="l_cover">
   
     
-        <div id="full" class='cover-wrapper  dock' style="display: none;">
+        <div id="half" class='cover-wrapper  dock' style="display: ;">
           
             <div class='cover-bg lazyload placeholder' data-bg="https://cdn.jsdelivr.net/gh/cybeird/rsc@1.2/pic/luna-blue-stream-wall-2880x1800.png"></div>
           
@@ -423,18 +423,10 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
         <div class="body-wrapper" id="pjax-container">
           
 
-
 <div class='l_main'>
-  
-    
-      
+	
+		
   <section class="post-list">
-    
-      
-        
-          
-        
-      
     
     
       
@@ -447,29 +439,29 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
   
     
     <h2 class="article-title" >
-      <a href="/Post/next-step-to-another/">
-        从next离开，但是感觉前途渺茫
+      <a href="/AfterRead/Software-Engineering/software-engineering-learning-1/">
+        软工第一课-概述与软件危机
       </a>
     </h2>
   
   <div class='md'>
     
-      <p>换个主题换个心情（主题文件的一个空格都会导致整个编译出现错误）</p>
+      <p>虽然没有好好学习，但是又没有完全在颓废</p>
     
   </div>
   
     <div class='meta-v3' line_style='solid'>
       <div>
         
-        <time>2021-09-08</time>
+        <time>2021-08-25</time>
         
           <span class="dot"></span>
-          <a class="category-link" href="/categories/Post/">Post</a>
+          <a class="category-link" href="/categories/AfterRead/">AfterRead</a><span class="sep"></span><a class="category-link" href="/categories/AfterRead/Software-Engineering/">Software Engineering</a>
         
       </div>
       
         <div>
-          <a class='readmore' href='/Post/next-step-to-another/'>
+          <a class='readmore' href='/AfterRead/Software-Engineering/software-engineering-learning-1/'>
             阅读全文
           </a>
         </div>
@@ -486,11 +478,25 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
   </section>
   
     
-  
-
-
+      <br>
+      <div class="prev-next">
+        
+          <a class="prev" rel="prev" href="/archives/2021/page/2/">
+            <section class="post prev white-box shadow" >
+              <i class="fas fa-chevron-left" aria-hidden="true"></i>&nbsp;上一页&nbsp;
+            </section>
+          </a>
+        
+        <p class="current">
+          3 / 3
+        </p>
+        
+      </div>
     
   
+
+
+	
 </div>
 <aside class='l_side'>
   
@@ -658,14 +664,14 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
   // header 这里无论是否开启pjax都需要
   var l_header=document.getElementById("l_header");
   
-  l_header.classList.add("show");
+  l_header.classList.remove("show");
   
   
     // cover
     var cover_wrapper=document.querySelector('.cover-wrapper');
     
-    cover_wrapper.id="none";
-    cover_wrapper.style.display="none";
+    cover_wrapper.id="half";
+    cover_wrapper.style.display="";
     
   
 </script>
